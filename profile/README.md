@@ -15,6 +15,7 @@
 | 文档站 | https://docs.flyisfp.com |
 | 下载站 | https://file.flyisfp.com |
 | 论坛站 | https://forum.flyisfp.com |
+| 空管中心 | https://atc.flyisfp.com |
 | EAIP镜像站 | https://eaip.flyisfp.com |
 | Moodle课程站 | https://moodle.flyisfp.com |
 | Swift / EuroScope | fsd.flyisfp.com |
