@@ -18,6 +18,7 @@
 | 空管中心 | https://atc.flyisfp.com |
 | EAIP镜像站 | https://eaip.flyisfp.com |
 | Moodle课程站 | https://moodle.flyisfp.com |
+| EFB电子飞行包 | https://efb.flyisfp.com |
 | Swift / EuroScope | fsd.flyisfp.com |
 | TeamSpeak 语音地址 | ts.flyisfp.com |
 | GitHub 主页 | https://github.com/Interstellar-Simulation-Flight-Platform |
