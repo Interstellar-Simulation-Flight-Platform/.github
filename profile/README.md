@@ -12,6 +12,7 @@
 | 名称 | 地址 |
 |---|---|
 | 官网 | https://www.flyisfp.com |
+| 地图 | https://map.flyisfp.com |
 | 文档站 | https://docs.flyisfp.com |
 | 下载站 | https://file.flyisfp.com |
 | 论坛站 | https://forum.flyisfp.com |
